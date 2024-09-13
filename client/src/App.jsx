@@ -17,14 +17,14 @@ function App() {
     <>
       <div className="App">
       <h1>Framer Motion Example</h1>
-      {/* <AnimatedBox />
-      <LeftToRight/>
+      <AnimatedBox />
+       <LeftToRight/>
       <RightToLeft/>
       <TopToBottomFade/>
-      <BottomToTopFade/> */}
-      {/* <FramerMotionExamples/> */}
-      {/* <VariantsShowcase/> */}
-      {/* <GestureShowcase/> */}
+      <BottomToTopFade/> 
+      <FramerMotionExamples/>
+      <VariantsShowcase/>
+       <GestureShowcase/>
       <DragShowcase/>
       
       
