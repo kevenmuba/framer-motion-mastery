@@ -8,6 +8,7 @@ import InteractiveButton from './Components/Gesture/InteractiveButton'
 import FramerMotionExamples from './Components/transition/Example1'
 import VariantsShowcase from './Components/Variant/Variant'
 import GestureShowcase from './Components/Gesture/InteractiveButton'
+import DragShowcase from './Components/DragShowcase/Drag'
 
 function App() {
   
@@ -23,7 +24,8 @@ function App() {
       <BottomToTopFade/> */}
       {/* <FramerMotionExamples/> */}
       {/* <VariantsShowcase/> */}
-      <GestureShowcase/>
+      {/* <GestureShowcase/> */}
+      <DragShowcase/>
       
       
     </div>
